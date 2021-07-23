@@ -11,7 +11,3 @@ This is content I have devoloped for my courses:
 
 This is a poor place to link a reposistory (usually off of file), but here is such a link:
 - [Test Repository](https://github.com/rcorn97/Test)
-
-This is a poor place to link to youtube (usually off of file), but here is such a link:
-[![Sorting Lists with Numerical Elements using Python](https://img.youtube.com/vi/K9fKttKmz8A/0.jpg)](http://www.youtube.com/watch?v=K9fKttKmz8A)
-
